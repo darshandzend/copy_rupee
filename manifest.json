@@ -2,7 +2,7 @@
   "manifest_version": 2,
 
   "name": "Copy Rupee",
-  "description": "Copy Rupee sign",
+  "description": "Copy the rupee sign (₹) on clipboard",
   "version": "1.0",
 
   "browser_action": {

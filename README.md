@@ -1,14 +1,11 @@
 # copy_rupee
-Chrome extension to copy the rupee sign (₹) on clipboard
+Browser extension to copy the rupee sign (₹) on clipboard
 
-Simply click the icon in Chrome's top bar to copy the Indian rupee sign, paste anywhere!
+Simply click the icon in the extension top bar to copy the Indian rupee sign on your clipboard, and them paste anywhere!
 
 # How to install
+Firefox Add-Ons link: https://addons.mozilla.org/en-US/firefox/addon/copy-rupee/
 
-Web store link: https://chrome.google.com/webstore/detail/copy-rupee/hklblgeenbnglanpjdcdcaddpfioakpi
+Chrome web store link: https://chrome.google.com/webstore/detail/copy-rupee/hklblgeenbnglanpjdcdcaddpfioakpi
 
-Alternatively, you can
-
-1. Open up chrome://extensions page in Chrome
-2. Download the `crx` file from https://github.com/darshandzend/copy_rupee/blob/master/copy_rupee.crx
-3. Drag and drop the `crx` file into the extensions page
+The recommended browser is Firefox. Not for the extension, it works in both; But for being the better browser.
